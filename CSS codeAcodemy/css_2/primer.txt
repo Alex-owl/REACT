@@ -1,0 +1,15 @@
+https://www.youtube.com/watch?v=seewcjGHreg&t=281s
+
+ font-size: 30px;
+    font-style:unset;
+    font-weight:700;
+    color: lime;
+    text-align:center;
+    text-decoration: solid;
+    text-shadow: 1px 1px 1px #117bff;
+    text-transform: uppercase;
+    text-indent: 500px;
+    letter-spacing: initial;
+    word-spacing: inherit;
+    white-space: nowrap;
+    line-height: inherit;
