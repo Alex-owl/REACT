@@ -1,0 +1,9 @@
+Почитать
+Путь разработчика:
+1.https://roadmap.sh/frontend
+2.https://roadmap.sh/reactSmartgit:
+1.https://progtips.ru/instrumenty-programmista/nachinaem-rabotat-s-git-poshagovaya-instrukciya.html
+Про работу с фигмой:1.https://webformyself.com/vse-chto-dolzhny-znat-razrabotchiki-o-figma/
+2.Занятные стикеры https://tlgrm.ru/stickers/plasticovayazhiznПро 
+VS Code
+1.Скачать2.Видео:  настройка, установка, плагины3.Еще одно видео для тех, кому ближе английский4.Популярные плагины5.Горячие клавиши для Windows6.Горячие клавиши для Mac OS7.Горячие клавиши для Linux8.Популярные темы9.9 полезных плагинов VS Code для вёрстки

@@ -1,0 +1,55 @@
+  body{
+    padding: 80px;
+    font-family: 'Times New Roman', Times, serif;
+  } 
+  div{
+    margin: 20px;
+    color: red;
+    border: 1px solid green;
+    display: block;
+    background-color: cyan;
+    text-transform: uppercase;
+    
+
+  }
+  .link:hover {
+    text-decoration: underline;
+    color: #9f41dd1a
+  }
+  .link:active{
+    color: chartreuse;
+  }
+  p {
+      font-family:Georgia, 'Times New Roman', Times, serif;
+      font-size: 30px;
+      text-transform: uppercase;
+      background-color: blue;
+
+
+    }
+   h1 {
+     color: rgb(55, 14, 235);
+   }
+   h1:active{
+     color: darkorange;
+     border: 1 currentColor;
+     box-shadow: 5 chartreuse;
+   }
+   .title:hover {
+     color: teal;
+      
+
+      }
+   
+   .uppercase {
+     text-transform: uppercase;
+   }
+   #article-title {
+     font-family: cursive;
+text-transform: capitalize;
+   }
+   .publish-time{
+     color: gray;
+     text-decoration: dotted;
+
+   }
